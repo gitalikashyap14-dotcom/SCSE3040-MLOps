@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# MLflow local tracking data
+mlruns/
+
+# Generated work/output files
+work/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
